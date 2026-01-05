@@ -102,11 +102,8 @@
     //$fs = new Stack;
 
     $x = [
-        "Joven", 
-        "Maveric", 
-        "Ian", 
-        "Geronimo", 
-        "Silvano"
+        "Pineapple",
+        "Papaya"
     ];
 
     /* foreach($x as $s){
